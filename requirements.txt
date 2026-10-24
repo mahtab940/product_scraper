@@ -1,0 +1,7 @@
+
+streamlit
+requests
+beautifulsoup4
+pydantic>=2.0
+anthropic
+python-dotenv
